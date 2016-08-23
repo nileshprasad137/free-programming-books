@@ -4,6 +4,7 @@
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Assembly](#assembly)
+* [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-2)
@@ -59,6 +60,11 @@
 
 * [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+
+
+### Bash
+
+* [Bash tutorial](http://gdrcorelec.ups-tlse.fr/files/bash.pdf) (PDF)
 
 
 ### C
@@ -182,7 +188,7 @@
 ### OCaml
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
-* [Introduction to Functional Programming in OCaml](https://www.france-universite-numerique-mooc.fr/courses/parisdiderot/56002/session01/about)
+* [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
 
 
 ### Oracle PL/SQL
